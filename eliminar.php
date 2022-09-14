@@ -1,3 +1,4 @@
 <?php 
-echo "hola mal paridos";
+echo "hola malparidos";
+echo "hola mundo";
 ?>
